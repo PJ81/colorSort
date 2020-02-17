@@ -3,7 +3,7 @@
     "target": "esnext",
     "watch": true,
     "outDir": "dist",
-    "lib": ["dom", "es2017"],
+    "lib": ["WebWorker", "dom", "es2017"],
     "removeComments": true
   }
 }
